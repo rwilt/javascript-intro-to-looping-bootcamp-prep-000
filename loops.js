@@ -19,7 +19,7 @@ return Math.random() >= 0.5
 }
 
 function doWhileLoop(array){
-  do{array.splice[-1]}
+  do{array.splice[]}
   while (array.length > 0 && maybeTrue());
 return array
 }
